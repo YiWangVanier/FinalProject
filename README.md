@@ -2,5 +2,4 @@
 
 ## Author: Yi Wang
 
-This is the final project for the course Introduction to Programming at Vanier college. 
-
+This is the final project for the course Introduction to Programming at Vanier college.
